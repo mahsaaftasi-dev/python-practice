@@ -1,0 +1,7 @@
+print("this is the simple calculator")
+num1= int(input("enter first number :"))
+num2=int(input("enter 2nd number :"))
+print ("sum=", num1+num2)
+print("Difference = ", num1-num2)
+print("multiplication=" ,num1*num2)
+print("division=" , num1/num2)
